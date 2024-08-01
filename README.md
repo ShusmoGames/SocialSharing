@@ -16,8 +16,6 @@ In Unity Package Manager use this URL `https://github.com/ShusmoGames/SocialShar
 ## Example of Using
 
 ```csharp
-using Shusmo;
-
 private string text;
 private Sprite image; //Can be Sprite or Texture2D.
 
