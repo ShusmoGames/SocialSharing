@@ -1,0 +1,23 @@
+{
+    "name": "com.shusmo.socialsharing",
+    "version": "1.0.0",
+    "displayName": "Social Sharing",
+    "description": "This is a unity Native Share tool",
+    "documentationUrl": "https://github.com/ShusmoGames/SocialSharing",
+    "licensesUrl": "https://github.com/ShusmoGames/SocialSharing/blob/main/LICENSE",
+    "dependencies": {
+      "com.unity.textmeshpro": "3.0.6"
+   },
+    "author": {
+      "name": "Alaa",
+      "email": "Alaa@Shusmo.io",
+      "url": "https://shusmo.io"
+    },
+    "samples": [
+      {
+        "displayName": "Demo Sample 1",
+        "description": "Demonstrates a simple sample with a script",
+        "path": "Samples~/DemoSample1"
+      }
+     ]
+  }
