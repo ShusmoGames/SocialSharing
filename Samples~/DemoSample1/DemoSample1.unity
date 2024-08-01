@@ -256,7 +256,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 58302a89c07263347838fbed49ce88bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4372abf80eaf59c42ba51c0ecbd39852, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1225,7 +1225,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 73a117f4f80243f45aa2382f680541d8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 88fe8bed8807eee4390091f86e4b7161, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2035,15 +2035,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1487095833}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e677624f3c4ea645aee61915251adce, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b16560f8c1a7c442882da9db0cb05cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   toggle1: {fileID: 921417696}
-  sprite1: {fileID: 21300000, guid: 73a117f4f80243f45aa2382f680541d8, type: 3}
+  sprite1: {fileID: 21300000, guid: 88fe8bed8807eee4390091f86e4b7161, type: 3}
   toggle2: {fileID: 1268507636}
-  sprite2: {fileID: 21300000, guid: dbed8581139f8b64fb9303b7acd8338d, type: 3}
+  sprite2: {fileID: 21300000, guid: 696d1a514c2455f4da9aafdaedc6ecaf, type: 3}
   toggle3: {fileID: 684029462}
-  sprite3: {fileID: 21300000, guid: 58302a89c07263347838fbed49ce88bd, type: 3}
+  sprite3: {fileID: 21300000, guid: 4372abf80eaf59c42ba51c0ecbd39852, type: 3}
   inputField: {fileID: 1327225107}
   resultText: {fileID: 184147132}
 --- !u!4 &1487095835
@@ -2622,7 +2622,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: dbed8581139f8b64fb9303b7acd8338d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 696d1a514c2455f4da9aafdaedc6ecaf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
