@@ -1,11 +1,8 @@
 using UnityEngine;
-using System.IO;
 using System;
 
-namespace Shusmo
+namespace ShusmoAPI
 {
-    public partial class ShusmoAPI
-    {
         public static class SocialSharing
         {
             private static Action<string> _callback = null;
@@ -53,4 +50,3 @@ namespace Shusmo
             }
         }
     }
-}

@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using Shusmo;
 using TMPro;
 
 public class SharingHandler : MonoBehaviour
