@@ -1,9 +1,10 @@
 {
     "name": "com.shusmo.socialsharing",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Social Sharing",
     "description": "This is a unity Native Share tool",
     "documentationUrl": "https://github.com/ShusmoGames/SocialSharing",
+    "changelogUrl": "https://github.com/ShusmoGames/SocialSharing/blob/main/CHANGELOG.md",
     "licensesUrl": "https://github.com/ShusmoGames/SocialSharing/blob/main/LICENSE",
     "dependencies": {
       "com.unity.textmeshpro": "3.0.6"
