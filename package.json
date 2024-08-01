@@ -1,6 +1,6 @@
 {
     "name": "com.shusmo.socialsharing",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "Social Sharing",
     "description": "This is a unity Native Share tool",
     "documentationUrl": "https://github.com/ShusmoGames/SocialSharing",
@@ -10,7 +10,7 @@
       "com.unity.textmeshpro": "3.0.6"
    },
     "author": {
-      "name": "Alaa",
+      "name": "Shusmo",
       "email": "Alaa@Shusmo.io",
       "url": "https://shusmo.io"
     },
